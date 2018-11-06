@@ -1,2 +1,2 @@
 # nlp-app
-This repo contains for my first app. The nlp-app.
+This repo contains my first angular2-app. The nlp-app.
